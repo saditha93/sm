@@ -1,0 +1,41 @@
+﻿.default-style {
+    .resp-accordion {
+        display: none;
+    }
+
+    .resp-tabs-list {
+        li {
+            font-size: 123%;
+            font-weight: 700;
+            color: #222;
+            float: left;
+            background-color: transparent;
+            padding: 10px 20px;
+            margin-bottom: -1px;
+            cursor: pointer;
+
+            a {
+                color: inherit;
+            }
+
+            &.active {
+                color: #fff;
+            }
+
+        }
+    }
+
+    .resp-tabs-container {
+        clear: both;
+        border-top: 1px solid #ddd;
+        padding-top: 20px;
+    }
+}
+
+/* RTL */
+.direction-rtl {
+    .default-style .resp-tabs-list li {
+        float: right;
+        margin: 0 0 0 -1px;
+    }
+}
