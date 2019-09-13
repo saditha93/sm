@@ -214,6 +214,7 @@ return [
         'MSP_TwoFactorAuth' => 1,
         'Magefan_Community' => 1,
         'Magefan_Blog' => 1,
+        'Shippit_Shipping' => 1,
         'Sm_BackEnd' => 1,
         'Sm_CartQuickPro' => 1,
         'Sm_Categories' => 1,
