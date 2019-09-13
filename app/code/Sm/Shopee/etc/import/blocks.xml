@@ -1,0 +1,872 @@
+<?xml version="1.0"?>
+<root>
+  <blocks>
+    <cms_item>
+      <title>Shopee - About Us Page</title>
+      <identifier>about-us-page</identifier>
+      <content><![CDATA[<div class="aboutus-page">
+	<div class="row">
+		<div class="col-lg-3">
+			<div class="faq-block">
+				<div class="number-faq">01</div>
+				<div class="title-faq">
+					<span class="light-text">Working at</span> Metro
+				</div>
+				
+				<div class="faq-description">
+					If you're an inventor, you'll love being an Merkat. From day one at Metro you'll take ownership of projects that have a direct impact on our customers.
+				</div>
+				
+				<div class="list-faqs">
+					<ul>
+						<li>
+							<span class="light-text">01</span> Explore working at Metro
+						</li>
+						
+						<li>
+							<span class="light-text">02</span> Get to know us
+						</li>
+						
+						<li>
+							<span class="light-text">03</span> Opportunities for veterans
+						</li>
+						
+						<li>
+							<span class="light-text">04</span> Our culture
+						</li>
+					</ul>
+				</div>
+			</div>
+			
+			<div class="faq-block">
+				<div class="number-faq">02</div>
+				<div class="title-faq">
+					<span class="light-text">Innovation</span> Metro
+				</div>
+				
+				<div class="faq-description">
+					We're a company of builders. It's our job to make bold bets, and we get our energy from inventing on behalf of customers.
+				</div>
+				
+				<div class="list-faqs">
+					<ul>
+						<li>
+							<span class="light-text">01</span> Our innovations
+						</li>
+						
+						<li>
+							<span class="light-text">02</span> Research
+						</li>
+					</ul>
+				</div>
+			</div>
+			
+			<div class="faq-block">
+				<div class="number-faq">03</div>
+				<div class="title-faq">
+					<span class="light-text">Supporting</span> Small Business
+				</div>
+				
+				<div class="faq-description">
+					We're a company of builders. It's our job to make bold bets, and we get our energy from inventing on behalf of customers.
+				</div>
+				
+				<div class="list-faqs">
+					<ul>
+						<li>
+							<span class="light-text">01</span> How we support small business
+						</li>
+						
+						<li>
+							<span class="light-text">02</span> Small business impact
+						</li>
+						
+						<li>
+							<span class="light-text">03</span> Success stories
+						</li>
+						
+						<li>
+							<span class="light-text">04</span> Advice for small business owners
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		
+		<div class="col-lg-9">
+			<div class="grid-about">
+				<div class="grid-items">
+					<div class="item-about">
+						<div class="image-about">
+							<a href="#">
+								<img src="{{media url="wysiwyg/about/item-1.jpg"}}" alt="Image Slider" />
+							</a>
+						</div>
+						
+						<div class="info-about">
+							<div class="categories">Technology</div>
+							<div class="title-about">
+								<a href="#">Waking up a voice tech boom</a>
+							</div>
+							<div class="description-about">
+								From Ring to ecobee, a series of startups are innovating voice technology with the help of the Alexa Fund. Lorem khaled ipsum is a major key to success. It’s on you how you want to live your life.
+							</div>
+						</div>
+					</div>
+					
+					<div class="item-about">
+						<div class="image-about">
+							<a href="#">
+								<img src="{{media url="wysiwyg/about/item-2.jpg"}}" alt="Image Slider" />
+							</a>
+						</div>
+						
+						<div class="info-about">
+							<div class="categories">Technology</div>
+							<div class="title-about">
+								<a href="#">Waking up a voice tech boom</a>
+							</div>
+							<div class="description-about">
+								From Ring to ecobee, a series of startups are innovating voice technology with the help of the Alexa Fund. Lorem khaled ipsum is a major key to success. It’s on you how you want to live your life.
+							</div>
+						</div>
+					</div>
+					
+					<div class="item-about">
+						<div class="image-about">
+							<a href="#">
+								<img src="{{media url="wysiwyg/about/item-3.jpg"}}" alt="Image Slider" />
+							</a>
+						</div>
+						
+						<div class="info-about">
+							<div class="categories">Technology</div>
+							<div class="title-about">
+								<a href="#">Waking up a voice tech boom</a>
+							</div>
+							<div class="description-about">
+								From Ring to ecobee, a series of startups are innovating voice technology with the help of the Alexa Fund. Lorem khaled ipsum is a major key to success. It’s on you how you want to live your life.
+							</div>
+						</div>
+					</div>
+					
+					<div class="item-about">
+						<div class="image-about">
+							<a href="#">
+								<img src="{{media url="wysiwyg/about/item-4.jpg"}}" alt="Image Slider" />
+							</a>
+						</div>
+						
+						<div class="info-about">
+							<div class="categories">Technology</div>
+							<div class="title-about">
+								<a href="#">Waking up a voice tech boom</a>
+							</div>
+							<div class="description-about">
+								From Ring to ecobee, a series of startups are innovating voice technology with the help of the Alexa Fund. Lorem khaled ipsum is a major key to success. It’s on you how you want to live your life.
+							</div>
+						</div>
+					</div>
+					
+					<div class="item-about">
+						<div class="image-about">
+							<a href="#">
+								<img src="{{media url="wysiwyg/about/item-5.jpg"}}" alt="Image Slider" />
+							</a>
+						</div>
+						
+						<div class="info-about">
+							<div class="categories">Technology</div>
+							<div class="title-about">
+								<a href="#">Waking up a voice tech boom</a>
+							</div>
+							<div class="description-about">
+								From Ring to ecobee, a series of startups are innovating voice technology with the help of the Alexa Fund. Lorem khaled ipsum is a major key to success. It’s on you how you want to live your life.
+							</div>
+						</div>
+					</div>
+					
+					<div class="item-about">
+						<div class="image-about">
+							<a href="#">
+								<img src="{{media url="wysiwyg/about/item-6.jpg"}}" alt="Image Slider" />
+							</a>
+						</div>
+						
+						<div class="info-about">
+							<div class="categories">Technology</div>
+							<div class="title-about">
+								<a href="#">Waking up a voice tech boom</a>
+							</div>
+							<div class="description-about">
+								From Ring to ecobee, a series of startups are innovating voice technology with the help of the Alexa Fund. Lorem khaled ipsum is a major key to success. It’s on you how you want to live your life.
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+</div>]]></content>
+      <is_active>1</is_active>
+      <store_id>0</store_id>
+    </cms_item>
+    <cms_item>
+      <title>Shopee - Contact Us Google Map</title>
+      <identifier>google-map</identifier>
+      <content><![CDATA[<div class="google-map"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6178.582418101062!2d-82.15213213330148!3d22.95733076179716!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88d29cf34082dc9b%3A0x612229950683defd!2sRestaurant+La+Mixta..!5e0!3m2!1svi!2s!4v1553497526654" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe></div>]]></content>
+      <is_active>1</is_active>
+      <store_id>0</store_id>
+    </cms_item>
+    <cms_item>
+      <title>Shopee - Product Megamenu</title>
+      <identifier>product-megamenu</identifier>
+      <content><![CDATA[<div class="product-megamenu">{{block class="Sm\FilterProducts\Block\FilterProducts" template="Sm_FilterProducts::default-menu.phtml" title_module="Featured Product" display_countdown="0" product_source="lastest_products" select_category="98" product_limitation="1"}}</div>]]></content>
+      <is_active>1</is_active>
+      <store_id>0</store_id>
+    </cms_item>
+    <cms_item>
+      <title>Shopee - Newsletter Info</title>
+      <identifier>newsletter-info</identifier>
+      <content><![CDATA[<h2 class="newsletter-title">Newsletter</h2>
+<p class="description-newsletter">Please sign up to the Market mailing list to receive updates on special offers and other discount information</p>]]></content>
+      <is_active>1</is_active>
+      <store_id>0</store_id>
+    </cms_item>
+    <cms_item>
+      <title>Shopee - Social Newsletter Popup</title>
+      <identifier>social-newsletter-popup</identifier>
+      <content><![CDATA[{{block class="Magento\Framework\View\Element\Template" template="Magento_Theme::html/social.phtml"}}]]></content>
+      <is_active>1</is_active>
+      <store_id>0</store_id>
+    </cms_item>
+    <cms_item>
+      <title>Shopee - Short Description Newsletter Popup</title>
+      <identifier>short-description-newsletter-popup</identifier>
+      <content><![CDATA[<div class="newsletter-content">
+	<div class="newsletter-title">Newsletter Subscribe</div>
+	<p>
+		Subscribe to the mailing list to receive updates on new arrivals, special offers and other discount information.
+	</p>
+</div>]]></content>
+      <is_active>1</is_active>
+      <store_id>0</store_id>
+    </cms_item>
+    <cms_item>
+      <title>Shopee - Header - Welcome - Discount</title>
+      <identifier>welcome-discount</identifier>
+      <content><![CDATA[<p>
+						Welcome to Shopee, let's subscribe our newsletter to GET special promotion <span class="dash-line">50% OFF</span> all items
+					</p>]]></content>
+      <is_active>1</is_active>
+      <store_id>0</store_id>
+    </cms_item>
+    <cms_item>
+      <title>Shopee - Header Hotline</title>
+      <identifier>header-hotline</identifier>
+      <content><![CDATA[<div class="hotline-header d-none d-md-block">
+						<p>Hotline: 0129 925 9901</p>
+					</div>]]></content>
+      <is_active>1</is_active>
+      <store_id>0</store_id>
+    </cms_item>
+    <cms_item>
+      <title>Shopee - Vertical Megamenu</title>
+      <identifier>vertical-megamenu</identifier>
+      <content><![CDATA[{{block class="Sm\MegaMenu\Block\MegaMenu\View" title="Categories" group_id="1" theme="2" template="Sm_MegaMenu::megamenu-vertical.phtml"}}]]></content>
+      <is_active>1</is_active>
+      <store_id>0</store_id>
+    </cms_item>
+    <cms_item>
+      <title>Shopee - Megamenu Horizontal</title>
+      <identifier>horizontal-megamenu</identifier>
+      <content><![CDATA[{{block class="Sm\MegaMenu\Block\MegaMenu\View" group_id="2" theme="1" template="Sm_MegaMenu::megamenu-horizontal.phtml"}}]]></content>
+      <is_active>1</is_active>
+      <store_id>0</store_id>
+    </cms_item>
+    <cms_item>
+      <title>Shopee - Footer Payment</title>
+      <identifier>payment-footer</identifier>
+      <content><![CDATA[<img src="{{media url="wysiwyg/footer/payment-footer.png"}}" alt="Payment" />]]></content>
+      <is_active>1</is_active>
+      <store_id>0</store_id>
+    </cms_item>
+    <cms_item>
+      <title>Shopee - Footer 1 - Content</title>
+      <identifier>footer-1-content</identifier>
+      <content><![CDATA[<div class="footer-middle">
+	<div class="container">
+		<div class="row">
+			<div class="cat-footer">
+				<ul>
+					<li>
+						<a href="#">
+							<span class="cat-icon"><img src="{{media url="wysiwyg/icon/cat-1.png"}}" alt="Category Image" /></span>
+							<span class="cat-name">Automotive & Industrial</span>
+						</a>
+					</li>
+					
+					<li>
+						<a href="#">
+							<span class="cat-icon"><img src="{{media url="wysiwyg/icon/cat-2.png"}}" alt="Category Image" /></span>
+							<span class="cat-name">Beauty & Health</span>
+						</a>
+					</li>
+					
+					<li>
+						<a href="#">
+							<span class="cat-icon"><img src="{{media url="wysiwyg/icon/cat-3.png"}}" alt="Category Image" /></span>
+							<span class="cat-name">Books & Audible</span>
+						</a>
+					</li>
+					
+					<li>
+						<a href="#">
+							<span class="cat-icon"><img src="{{media url="wysiwyg/icon/cat-4.png"}}" alt="Category Image" /></span>
+							<span class="cat-name">Clothing, Shoes & Jewelry</span>
+						</a>
+					</li>
+					
+					<li>
+						<a href="#">
+							<span class="cat-icon"><img src="{{media url="wysiwyg/icon/cat-5.png"}}" alt="Category Image" /></span>
+							<span class="cat-name">Cellphones & Wearables</span>
+						</a>
+					</li>
+					
+					<li>
+						<a href="#">
+							<span class="cat-icon"><img src="{{media url="wysiwyg/icon/cat-6.png"}}" alt="Category Image" /></span>
+							<span class="cat-name">Electronics & Computers</span>
+						</a>
+					</li>
+					
+					<li>
+						<a href="#">
+							<span class="cat-icon"><img src="{{media url="wysiwyg/icon/cat-7.png"}}" alt="Category Image" /></span>
+							<span class="cat-name">Food & Grocery</span>
+						</a>
+					</li>
+					
+					<li>
+						<a href="#">
+							<span class="cat-icon"><img src="{{media url="wysiwyg/icon/cat-8.png"}}" alt="Category Image" /></span>
+							<span class="cat-name">Handmade</span>
+						</a>
+					</li>
+					
+					<li>
+						<a href="#">
+							<span class="cat-icon"><img src="{{media url="wysiwyg/icon/cat-9.png"}}" alt="Category Image" /></span>
+							<span class="cat-name">Home Services</span>
+						</a>
+					</li>
+					
+					<li>
+						<a href="#">
+							<span class="cat-icon"><img src="{{media url="wysiwyg/icon/cat-10.png"}}" alt="Category Image" /></span>
+							<span class="cat-name">Home, Garden & Tools</span>
+						</a>
+					</li>
+					
+					<li>
+						<a href="#">
+							<span class="cat-icon"><img src="{{media url="wysiwyg/icon/cat-11.png"}}" alt="Category Image" /></span>
+							<span class="cat-name">Office & Stationery</span>
+						</a>
+					</li>
+					
+					<li>
+						<a href="#">
+							<span class="cat-icon"><img src="{{media url="wysiwyg/icon/cat-12.png"}}" alt="Category Image" /></span>
+							<span class="cat-name">Pet Supplies</span>
+						</a>
+					</li>
+					
+					<li>
+						<a href="#">
+							<span class="cat-icon"><img src="{{media url="wysiwyg/icon/cat-13.png"}}" alt="Category Image" /></span>
+							<span class="cat-name">Sports & Outdoors</span>
+						</a>
+					</li>
+					
+					<li>
+						<a href="#">
+							<span class="cat-icon"><img src="{{media url="wysiwyg/icon/cat-14.png"}}" alt="Category Image" /></span>
+							<span class="cat-name">Toys, Kids & Baby</span>
+						</a>
+					</li>
+					
+					<li>
+						<a href="#">
+							<span class="cat-icon"><img src="{{media url="wysiwyg/icon/cat-15.png"}}" alt="Category Image" /></span>
+							<span class="cat-name">Devices Storage</span>
+						</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+	
+	<div class="container">
+		<div class="middle-block">
+			<div class="row">
+				<div class="col-xl-2 col-lg-6 col-md-6">
+					<div class="block-footer">
+						<div class="block-footer-title">Customer Service</div>
+						
+						<div class="block-footer-content">
+							<ul>
+								<li><a href="#">International Help</a></li>
+								<li><a href="#">Contact Customer Care</a></li>
+								<li><a href="#">Return Policy</a></li>
+								<li><a href="#">Privacy Policy</a></li>
+								<li><a href="#">Shipping Information</a></li>
+								<li><a href="#">Promotion Terms</a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+				
+				<div class="col-xl-2 col-lg-6 col-md-6">
+					<div class="block-footer">
+						<div class="block-footer-title">Let Us Help You</div>
+						
+						<div class="block-footer-content">
+							<ul>
+								<li><a href="#">Your Account</a></li>
+								<li><a href="#">Your Orders</a></li>
+								<li><a href="#">Shipping Rates & Policies</a></li>
+								<li><a href="#">Amazon Prime</a></li>
+								<li><a href="#">Returns & Replacements</a></li>
+								<li><a href="#">Help</a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+				
+				<div class="col-xl-2 col-lg-6 col-md-6">
+					<div class="block-footer">
+						<div class="block-footer-title">Company Information</div>
+						
+						<div class="block-footer-content">
+							<ul>
+								<li><a href="#">About Us</a></li>
+								<li><a href="#">Careers</a></li>
+								<li><a href="#">Sell on Metro</a></li>
+								<li><a href="#">Press & News</a></li>
+								<li><a href="#">Competitions</a></li>
+								<li><a href="#">Terms & Conditions</a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+				
+				<div class="col-xl-2 col-lg-6 col-md-6">
+					<div class="block-footer">
+						<div class="block-footer-title">Our Shop</div>
+						
+						<div class="block-footer-content">
+							<ul>
+								<li><a href="#">Daily Deals</a></li>
+								<li><a href="#">App Only Deals</a></li>
+								<li><a href="#">Our Hottest Products</a></li>
+								<li><a href="#">Gift Vouchers</a></li>
+								<li><a href="#">Trending Product</a></li>
+								<li><a href="#">Hot Flash Sale</a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+				
+				<div class="col-xl-4 col-lg-12 col-md-12">
+					<div class="block-footer">
+						<div class="block-footer-title">Newsletter Subscribe</div>
+						
+						<div class="block-footer-content">
+							<p class="newsletter-description">Enter your email address for our mailing list to keep yourself update</p>
+							{{block class="Magento\Newsletter\Block\Subscribe" template="subscribe-footer.phtml"}}
+						</div>
+					</div>
+					
+					<div class="block-footer">
+						<div class="block-footer-title">Download Our Apps</div>
+						
+						<div class="block-footer-content content-apps">
+							<a href="#" title="Google Play"><img src="{{media url="wysiwyg/footer/google-play.png"}}" alt="Google Play" /></a>
+							<a href="#" title="Google Play"><img src="{{media url="wysiwyg/footer/app-store.png"}}" alt="App Store" /></a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		
+		<div class="seo-struct">
+			<ul>
+				<li><a href="#">Home</a></li>
+				<li><a href="#">Garden, Pool & Patio</a></li>
+				<li><a href="#">Camping & Outdoor</a></li>
+				<li><a href="#">Office & Stationery</a></li>
+				<li><a href="#">Luggage & Travel</a></li>
+				<li><a href="#">Health & Beauty</a></li>
+				<li><a href="#">PetsSport</a></li>
+				<li><a href="#">Home & Kitchen</a></li>
+				<li><a href="#">Baby & Toddler</a></li>
+				<li><a href="#">Computers / Cameras</a></li>
+				<li><a href="#">TV, Audio & Video</a></li>
+				<li><a href="#">Cellular & GPS</a></li>
+				<li><a href="#">Movies & TV</a></li>
+				<li><a href="#">Gaming</a></li>
+				<li><a href="#">Books</a></li>
+				<li><a href="#">Music</a></li>
+				<li><a href="#">Toys</a></li>
+				<li><a href="#">Fashion</a></li>
+				<li><a href="#">Vouchers</a></li>
+			</ul>
+		</div>
+	</div>
+</div>]]></content>
+      <is_active>1</is_active>
+      <store_id>0</store_id>
+    </cms_item>
+    <cms_item>
+      <title>Shopee - Sidebar - Bestseller - Banner - Category Electronic</title>
+      <identifier>extended-electronic</identifier>
+      <content><![CDATA[<div class="list-slider list-slider-sidebar">
+	{{block class="Sm\FilterProducts\Block\FilterProducts" template="Sm_FilterProducts::default-slider-list.phtml" title_module="Best sellers" display_countdown="0" product_source="best_sellers" select_category="97" product_limitation="10" row="5"}}
+</div>
+
+<div class="banner-image">
+	<a href="#" title="Banner Image">
+		<img src="{{media url="wysiwyg/banner/item-sidebar.jpg"}}" alt="Banner Image" />
+	</a>
+</div>]]></content>
+      <is_active>1</is_active>
+      <store_id>0</store_id>
+    </cms_item>
+    <cms_item>
+      <title>Shopee - Sidebar - Bestseller - Banner - Category Smartphones &amp; Tablets</title>
+      <identifier>extended-smartphone-tablet</identifier>
+      <content><![CDATA[<div class="list-slider list-slider-sidebar">
+	{{block class="Sm\FilterProducts\Block\FilterProducts" template="Sm_FilterProducts::default-slider-list.phtml" title_module="Best sellers" display_countdown="0" product_source="best_sellers" select_category="98" product_limitation="10" row="5"}}
+</div>
+
+<div class="banner-image">
+	<a href="#" title="Banner Image">
+		<img src="{{media url="wysiwyg/banner/item-sidebar.jpg"}}" alt="Banner Image" />
+	</a>
+</div>]]></content>
+      <is_active>1</is_active>
+      <store_id>0</store_id>
+    </cms_item>
+    <cms_item>
+      <title>Shopee - Sidebar - Bestseller - Banner - Category Health &amp; Beauty</title>
+      <identifier>extended-health-beauty</identifier>
+      <content><![CDATA[<div class="list-slider list-slider-sidebar">
+	{{block class="Sm\FilterProducts\Block\FilterProducts" template="Sm_FilterProducts::default-slider-list.phtml" title_module="Best sellers" display_countdown="0" product_source="best_sellers" select_category="99" product_limitation="10" row="5"}}
+</div>
+
+<div class="banner-image">
+	<a href="#" title="Banner Image">
+		<img src="{{media url="wysiwyg/banner/item-sidebar.jpg"}}" alt="Banner Image" />
+	</a>
+</div>]]></content>
+      <is_active>1</is_active>
+      <store_id>0</store_id>
+    </cms_item>
+    <cms_item>
+      <title>Shopee - Sidebar - Bestseller - Banner - Category Automotive</title>
+      <identifier>extended-automotive</identifier>
+      <content><![CDATA[<div class="list-slider list-slider-sidebar">
+	{{block class="Sm\FilterProducts\Block\FilterProducts" template="Sm_FilterProducts::default-slider-list.phtml" title_module="Best sellers" display_countdown="0" product_source="best_sellers" select_category="105" product_limitation="10" row="5"}}
+</div>
+
+<div class="banner-image">
+	<a href="#" title="Banner Image">
+		<img src="{{media url="wysiwyg/banner/item-sidebar.jpg"}}" alt="Banner Image" />
+	</a>
+</div>]]></content>
+      <is_active>1</is_active>
+      <store_id>0</store_id>
+    </cms_item>
+    <cms_item>
+      <title>Shopee - Sidebar - Bestseller - Banner - Category Clothing, Shoes &amp; Jewelry</title>
+      <identifier>extended-clothing-shoes-jewelry</identifier>
+      <content><![CDATA[<div class="list-slider list-slider-sidebar">
+	{{block class="Sm\FilterProducts\Block\FilterProducts" template="Sm_FilterProducts::default-slider-list.phtml" title_module="Best sellers" display_countdown="0" product_source="best_sellers" select_category="107" product_limitation="10" row="5"}}
+</div>
+
+<div class="banner-image">
+	<a href="#" title="Banner Image">
+		<img src="{{media url="wysiwyg/banner/item-sidebar.jpg"}}" alt="Banner Image" />
+	</a>
+</div>]]></content>
+      <is_active>1</is_active>
+      <store_id>0</store_id>
+    </cms_item>
+    <cms_item>
+      <title>Shopee - Sidebar - Bestseller - Banner - Category Furniture</title>
+      <identifier>extended-furniture</identifier>
+      <content><![CDATA[<div class="list-slider list-slider-sidebar">
+	{{block class="Sm\FilterProducts\Block\FilterProducts" template="Sm_FilterProducts::default-slider-list.phtml" title_module="Best sellers" display_countdown="0" product_source="best_sellers" select_category="101" product_limitation="10" row="5"}}
+</div>
+
+<div class="banner-image">
+	<a href="#" title="Banner Image">
+		<img src="{{media url="wysiwyg/banner/item-sidebar.jpg"}}" alt="Banner Image" />
+	</a>
+</div>]]></content>
+      <is_active>1</is_active>
+      <store_id>0</store_id>
+    </cms_item>
+    <cms_item>
+      <title>Shopee - Sidebar - Bestseller - Banner - Product Page</title>
+      <identifier>detail-extended</identifier>
+      <content><![CDATA[<div class="list-slider list-slider-sidebar">
+	{{block class="Sm\FilterProducts\Block\FilterProducts" template="Sm_FilterProducts::default-slider-list.phtml" title_module="Best sellers" display_countdown="0" product_source="best_sellers" select_category="" product_limitation="10" row="5"}}
+</div>
+
+<div class="banner-image">
+	<a href="#" title="Banner Image">
+		<img src="{{media url="wysiwyg/banner/item-sidebar.jpg"}}" alt="Banner Image" />
+	</a>
+</div>
+
+<div class="banner-image">
+	<a href="#" title="Banner Image">
+		<img src="{{media url="wysiwyg/banner/item-sidebar-2.jpg"}}" alt="Banner Image" />
+	</a>
+</div>]]></content>
+      <is_active>1</is_active>
+      <store_id>0</store_id>
+    </cms_item>
+    <cms_item>
+      <title>Shopee - Info Store - Contact Page</title>
+      <identifier>info-store-contact</identifier>
+      <content><![CDATA[<div class="store-info-contact clearfix">
+	<ul>
+		<li>
+			<div class="icon-info-contact phone-ico">
+				<span class="hidden">Icon</span>
+			</div>
+			
+			<h3>Phone</h3>
+			<p>
+				Phone 1: (+123) 4 567 890</br>
+				Phone 2: (+234) 5 210 102
+			</p>
+		</li>
+		
+		<li>
+			<div class="icon-info-contact add-ico">
+				<span class="hidden">Icon</span>
+			</div>
+			
+			<h3>Address</h3>
+			<p>
+				2012 Lenorad Creet Street, Behind</br>
+				Los Angeles, USA
+			</p>
+		</li>
+		
+		<li>
+			<div class="icon-info-contact email-ico">
+				<span class="hidden">Icon</span>
+			</div>
+			
+			<h3>Email</h3>
+			<p>
+				support-customer@example.com</br>
+				martketing@example.com
+			</p>
+		</li>
+		
+		<li>
+			<div class="icon-info-contact open-ico">
+				<span class="hidden">Icon</span>
+			</div>
+			
+			<h3>Opening time</h3>
+			<p>
+				Monday-Saturday: 6AM - 9PM</br>
+				Sunday: Closed
+			</p>
+		</li>
+	</ul>
+</div>]]></content>
+      <is_active>1</is_active>
+      <store_id>0</store_id>
+    </cms_item>
+    <cms_item>
+      <title>Shopee - Deliver Header</title>
+      <identifier>deliver-header</identifier>
+      <content><![CDATA[<div class="deliver">
+						<a href="#">
+							<span class="de-top">Deliver to</span>
+							<span class="de-bottom">France</span>
+						</a>
+					</div>]]></content>
+      <is_active>1</is_active>
+      <store_id>0</store_id>
+    </cms_item>
+    <cms_item>
+      <title>Shopee - Footer 2 - Content</title>
+      <identifier>footer-2-content</identifier>
+      <content><![CDATA[<div class="footer-middle">
+	<div class="container">
+		<div class="middle-block">
+			<div class="row">
+				<div class="col-xl-4 col-lg-12 col-md-12">
+					<div class="block-footer support-ft">
+						<div class="block-footer-title">Hotline support <span>(8h00 - 22h00)</span></div>
+						<ul>
+							<li class="hotline">Hotline: <span>1800 8179 </span></li>
+							<li class="sale">Sale: <span>1800 8179 </span></li>
+						</ul>
+						<div class="block-footer-content">
+							
+						</div>
+					</div>
+					
+					<div class="block-footer">
+						<div class="block-footer-title">Download Our Apps</div>
+						
+						<div class="block-footer-content content-apps">
+							<a href="#" title="Google Play"><img src="{{media url="wysiwyg/footer/google-play.png"}}" alt="Google Play" /></a>
+							<a href="#" title="Google Play"><img src="{{media url="wysiwyg/footer/app-store.png"}}" alt="App Store" /></a>
+						</div>
+					</div>
+				</div>
+				<div class="col-xl-2 col-lg-6 col-sm-6">
+					<div class="block-footer">
+						<div class="block-footer-title">Customer Service</div>
+						
+						<div class="block-footer-content">
+							<ul>
+								<li><a href="#">International Help</a></li>
+								<li><a href="#">Contact Customer Care</a></li>
+								<li><a href="#">Return Policy</a></li>
+								<li><a href="#">Privacy Policy</a></li>
+								<li><a href="#">Shipping Information</a></li>
+								<li><a href="#">Promotion Terms</a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+				
+				<div class="col-xl-2 col-lg-6 col-sm-6">
+					<div class="block-footer">
+						<div class="block-footer-title">YOUR LINKS</div>
+						
+						<div class="block-footer-content">
+							<ul>
+								<li><a href="#">Your Account</a></li>
+								<li><a href="#">Your Orders</a></li>
+								<li><a href="#">Shipping Rates</a></li>
+								<li><a href="#">Amazon Prime</a></li>
+								<li><a href="#">Returns & Replacements</a></li>
+								<li><a href="#">Help</a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+				
+				<div class="col-xl-2 col-lg-6 col-sm-6">
+					<div class="block-footer">
+						<div class="block-footer-title">Our Services</div>
+						
+						<div class="block-footer-content">
+							<ul>
+								<li><a href="#">About Us</a></li>
+								<li><a href="#">Careers</a></li>
+								<li><a href="#">Sell on Metro</a></li>
+								<li><a href="#">Press & News</a></li>
+								<li><a href="#">Competitions</a></li>
+								<li><a href="#">Terms & Conditions</a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+				
+				<div class="col-xl-2 col-lg-6 col-sm-6">
+					<div class="block-footer">
+						<div class="block-footer-title">Our Shop</div>
+						
+						<div class="block-footer-content">
+							<ul>
+								<li><a href="#">Daily Deals</a></li>
+								<li><a href="#">App Only Deals</a></li>
+								<li><a href="#">Our Hottest Products</a></li>
+								<li><a href="#">Gift Vouchers</a></li>
+								<li><a href="#">Trending Product</a></li>
+								<li><a href="#">Hot Flash Sale</a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+				
+				
+			</div>
+		</div>
+		
+		<div class="seo-struct">
+			<ul>
+				<li><a href="#">Home</a></li>
+				<li><a href="#">Garden, Pool & Patio</a></li>
+				<li><a href="#">Camping & Outdoor</a></li>
+				<li><a href="#">Office & Stationery</a></li>
+				<li><a href="#">Luggage & Travel</a></li>
+				<li><a href="#">Health & Beauty</a></li>
+				<li><a href="#">PetsSport</a></li>
+				<li><a href="#">Home & Kitchen</a></li>
+				<li><a href="#">Baby & Toddler</a></li>
+				<li><a href="#">Computers / Cameras</a></li>
+				<li><a href="#">TV, Audio & Video</a></li>
+				<li><a href="#">Cellular & GPS</a></li>
+				<li><a href="#">Movies & TV</a></li>
+				<li><a href="#">Gaming</a></li>
+				<li><a href="#">Books</a></li>
+				<li><a href="#">Music</a></li>
+				<li><a href="#">Toys</a></li>
+				<li><a href="#">Fashion</a></li>
+				<li><a href="#">Vouchers</a></li>
+			</ul>
+		</div>
+	</div>
+</div>]]></content>
+      <is_active>1</is_active>
+      <store_id>0</store_id>
+    </cms_item>
+    <cms_item>
+      <title>Shopee - Header Email</title>
+      <identifier>header-email</identifier>
+      <content><![CDATA[<div class="email-header d-none d-md-block">
+			<p><a href="mailto:marketting@shopee.com">marketting@shopee.com</a></p>
+	</div>]]></content>
+      <is_active>1</is_active>
+      <store_id>0</store_id>
+    </cms_item>
+    <cms_item>
+      <title>Shopee - background listting tabs 3</title>
+      <identifier>bg_listingtabs3</identifier>
+      <content><![CDATA[<img src="{{media url="wysiwyg/banner/ing-box3.jpg"}}" alt="" />]]></content>
+      <is_active>1</is_active>
+      <store_id>0</store_id>
+    </cms_item>
+    <cms_item>
+      <title>Shopee - background listting tabs 2</title>
+      <identifier>bg_listingtabs2</identifier>
+      <content><![CDATA[<img src="{{media url="wysiwyg/banner/ing-box2.jpg"}}" alt="" />]]></content>
+      <is_active>1</is_active>
+      <store_id>0</store_id>
+    </cms_item>
+    <cms_item>
+      <title>Shopee - background listting tabs 1</title>
+      <identifier>bg_listingtabs1</identifier>
+      <content><![CDATA[<img src="{{media url="wysiwyg/banner/ing-box1.jpg"}}" alt="" />]]></content>
+      <is_active>1</is_active>
+      <store_id>0</store_id>
+    </cms_item>
+  </blocks>
+</root>

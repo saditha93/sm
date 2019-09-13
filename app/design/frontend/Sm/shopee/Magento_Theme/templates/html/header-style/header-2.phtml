@@ -1,0 +1,125 @@
+<?php
+$login_customer = $block->getLayout()->createBlock('Magento\Customer\Block\Account\Customer');
+$welcomeMessage = $block->getWelcome();
+?>
+
+<div class="header-container header-style-2">
+	<div class="header-top">
+		<div class="container">
+			<div class="row row-topheader">
+				<div class="col-xl-6 col-md-5 left-top-header">
+					<?php echo $block->getLayout()->createBlock('Magento\Cms\Block\Block')->setBlockId('header-email')->toHtml(); ?>
+				</div>
+				
+				<div class="col-xl-6 col-md-7 right-top-header">
+					<?php echo $block->getChildHtml('language-header'); ?>
+					<?php echo $block->getChildHtml('currency-header'); ?>
+					<?php echo $block->getLayout()->createBlock('Magento\Cms\Block\Block')->setBlockId('header-hotline')->toHtml(); ?>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div class="header-middle">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-2 col-md-3 col-5 left-header-middle">
+					<?php echo $block->getChildHtml('logo_theme'); ?>
+				</div>
+				
+				<div class="col-lg-7 serach-container-header">
+					<div class="middle-searchbox">
+						<?php echo $block->getChildHtml('search-header-pro'); ?>
+					</div>
+				</div>
+				
+				<div class="col-lg-3 col-md-9 col-7 right-header-middle">
+					<div class="right-middle-header">
+						<div class="customer-action">
+							<div class="link-customer-action">
+								<?php if ($login_customer->customerLoggedIn()) { ?>
+                                    <span class="welcome-label"><?php echo __('Hello') ?></span>
+
+                                    <span class="greet welcome" data-bind="scope: 'customer'">
+										<!-- ko if: customer().fullname  -->
+										<span data-bind="text: new String('<?php echo $block->escapeHtml(__('%1', '%1')); ?>').replace('%1', customer().firstname)">
+										</span>
+                                        <!-- /ko -->
+									</span>
+                                    <script type="text/x-magento-init">
+									{
+										"*": {
+											"Magento_Ui/js/core/app": {
+												"components": {
+													"customer": {
+														"component": "Magento_Customer/js/view/customer"
+													}
+												}
+											}
+										}
+									}
+									</script>
+
+                                    <div class="dropdown-account">
+										<?php echo $block->getChildHtml('toplinks-header'); ?>
+									</div>
+								<?php } else { ?>
+									
+
+                                    
+                                    
+                                    <a class="login-link" href="#" data-toggle="modal" data-target="#login-container"><?php echo __('Sign in'); ?></a>
+                                    <div class="modal fade" id="login-container">
+										<div class="modal-dialog modal-dialog-centered" role="document">
+											<div class="modal-content">
+												<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+													<span aria-hidden="true">&times;</span>
+												</button>
+											  
+												<div class="modal-body">
+													<?php echo $block->getChildHtml('login_popup_theme'); ?>
+												</div>
+											</div>
+										</div>
+									</div>
+                                    <a class="register-link" href="<?php echo $this->getUrl('customer/account/create') ?>"><?php echo __('Register'); ?></a>
+								<?php } ?>
+							</div>
+						</div>
+						
+						
+						
+						<div class="minicart-header">
+							<?php echo $block->getChildHtml('cart-header'); ?>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div class="header-bottom ontop-element">
+		<div class="container">
+			<div class="nav-destkop  d-none d-lg-block">
+						<div class="vertical-megamenu">
+							<?php
+							if ($_config->getGeneral('menu_style') == 'megamenu') {
+								echo $block->getLayout()->createBlock('Magento\Cms\Block\Block')->setBlockId('vertical-megamenu')->toHtml();
+							} else {
+								echo $block->getChildHtml('navigation-header');
+							} ?>
+						</div>
+						
+						<div class="horizontal-megamenu">
+							<?php echo $block->getLayout()->createBlock('Magento\Cms\Block\Block')->setBlockId('horizontal-megamenu')->toHtml(); ?>
+						</div>
+					</div>
+					
+					<div class="navigation-mobile-container">
+						<?php echo $block->getChildHtml('navigation.mobile'); ?>
+					</div>
+		</div>
+	</div>
+</div>
+
+
