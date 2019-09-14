@@ -14,6 +14,7 @@
         "livechat/module-magento-livechat": "dev-master",
         "magento/product-community-edition": "2.3.2",
         "mageplaza/magento-2-social-login": "^2.7",
+        "mageplaza/module-geoip": "^1.0",
         "shippit/magento2": "^1.4"
     },
     "require-dev": {
