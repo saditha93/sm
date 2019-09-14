@@ -11,7 +11,9 @@
         "sort-packages": true
     },
     "require": {
+        "livechat/module-magento-livechat": "dev-master",
         "magento/product-community-edition": "2.3.2",
+        "mageplaza/magento-2-social-login": "^2.7",
         "shippit/magento2": "^1.4"
     },
     "require-dev": {
