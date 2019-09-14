@@ -220,6 +220,7 @@ return [
         'Mageplaza_Reports' => 1,
         'Mageplaza_Smtp' => 1,
         'Mageplaza_SocialLogin' => 1,
+        'One97_Paytm' => 1,
         'Shippit_Shipping' => 1,
         'Sm_BackEnd' => 1,
         'Sm_CartQuickPro' => 1,
